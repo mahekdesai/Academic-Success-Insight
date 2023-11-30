@@ -35,6 +35,10 @@ Evaluated the performance of various classification algorithms:
 
 Generated confusion matrices for each model to visualize the true positive, true negative, false positive, and false negative predictions.
 
+## User-Friendly Prediction Algorithm
+
+Thus algorithm is developed using Logistic Rgression Model and can predict the students' preparedness depending on the user's input of the fields: gender, race, lunch, math score, reading score and writing score, during run time.
+
 ## Running the Code
 
 1. Ensure you have Python installed on your system.
